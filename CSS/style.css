@@ -1,0 +1,180 @@
+/* configuracoes gerais para navegador */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans'; 
+}
+
+/* parte da barra de navegação */
+
+.nav-link{
+
+color: #40E0D0;
+
+}
+
+.btn-outline-info{
+
+    color:#40E0D0;
+    border-color:#40E0D0 ;
+}
+
+
+/* parte do footer */
+
+footer {
+
+    background-color: #000000;
+    padding-top: 5em;
+    padding-bottom: 40px;
+    border-top: 5px solid #292929;
+}
+
+footer h2, footer p, footer a, footer span {
+
+    color: white;
+
+}
+
+footer h2 {
+
+    font-weight: 400;
+
+}
+
+footer a {
+
+    text-decoration: none;
+
+}
+
+footer ul {
+
+    padding: 0;
+}
+
+footer li {
+
+    list-style: none;
+
+}
+
+.footer-box {
+
+    width: 31%;
+    padding: 1%;
+    float: left;
+
+}
+
+footer .wrapper:after {
+
+    clear: both;
+    content: "";
+    display: block;
+}
+
+.company-footer {
+
+    width: 80%;
+
+}
+
+.company-footer h2 {
+
+    margin-top: 20px;
+    font-size: 30px;
+
+}
+
+.company-footer {
+
+    text-align: center;
+}
+
+.company-footer h2 p {
+
+    margin-bottom: 20px;
+
+
+}
+
+.site-footer {
+
+    width: 80%;
+    text-align: left;
+}
+
+.footer-lista {
+
+    margin-bottom: 15px;
+}
+
+.footer-lista a {
+
+    transition: 0.5s;
+
+}
+
+.footer-lista a:hover {
+
+    color: #40E0D0;
+
+}
+
+.footer-lista span {
+
+    transition: 0.5s;
+
+}
+
+.footer-lista span:hover {
+
+    color: #40E0D0;
+
+}
+
+.footer-lista:after {
+
+    clear: both;
+    content: "";
+    display: block;
+}
+
+.footer-lista {
+
+    width: 80%;
+
+}
+
+
+.footer-lista.footer-site-lista li {
+
+    display: block;
+    float: none;
+
+}
+
+.fab {
+    /* tamanho icones*/
+
+    font-size: 20px;
+    margin-right: 10px;
+
+}
+
+.fas.fa-fist-raised {
+    /* tamanho do icone rodapé */
+
+    font-size: 50px;
+    color: white;
+}
+
+.footer-list li span {
+
+    float: left;
+    height: 30px;
+    line-height: 30px;
+
+}
