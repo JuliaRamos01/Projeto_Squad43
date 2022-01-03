@@ -7,7 +7,7 @@ Arquivo criado em 22/12/2021
 - Rodapé;
 
 <h1> Alterações do dia 03/01 </h1>
-- Adição da página de contatos
+- Adição da página de contatos 
 
 <h1> Sugestões de aprimoramento </h1>
 
