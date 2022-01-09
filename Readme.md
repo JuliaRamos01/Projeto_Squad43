@@ -1,8 +1,8 @@
 <h1> Squad 43 - Primeira parte </h1>
 
-Arquivo criado no github em 22/12/2021
-Equipe front-end: Júlia, Erick e Anderson
-O que foi utilizado: HTML/CSS/Javascript/Bootstrap
+Arquivo criado no github em 22/12/2021<br>
+Equipe front-end: Júlia, Erick e Anderson<br>
+O que foi utilizado: HTML/CSS/Javascript/Bootstrap<br>
 
 <h2> Alterações 23/12 </h2>
 - Barra de navegação; <br>
