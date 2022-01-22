@@ -203,3 +203,20 @@ footer {
     padding-bottom: 40px;
     border-top: 5px solid #292929;
   }
+
+  .obanner {
+      display: grid;
+      grid: auto-flow / 1fr 1fr ;
+      
+  }
+
+.somos1 {
+    margin-bottom: 200px;
+}
+
+
+
+  .somos2 {
+      margin-left: 496px;
+  }
+ 
