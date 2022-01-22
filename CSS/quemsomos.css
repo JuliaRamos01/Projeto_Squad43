@@ -219,4 +219,12 @@ footer {
   .somos2 {
       margin-left: 496px;
   }
- 
+
+
+  .logorodape2 {
+    margin-top: 0px;  
+    position: relative;
+    width: 150em;
+    flex: 0 1 auto;
+    flex-shrink: 0;
+  }
